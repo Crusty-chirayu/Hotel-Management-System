@@ -22,4 +22,4 @@ This project helps hotel staff manage customers, room bookings, check-ins, and c
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Hotel-Management-System.git
+    git clone https://github.com/Crusty-chirayu/Hotel-Management-System.git
