@@ -30,20 +30,35 @@ Before running the project, make sure you have:
 ## Installation & Setup 🚀
 
 Follow these steps to run the project:
+
 Quick Setup in 5 Steps 🚀
+
 Clone the repository
+
 Download the project from your GitHub repository to your local computer.
+
 Open the project in an IDE
+
 Use NetBeans, Eclipse, or IntelliJ IDEA and import the project as a Java project.
+
 Set up the database
+
 Create a MySQL database for the project and import the provided database schema.
+
 Update the project’s database connection settings with your database credentials.
+
 Run the project
+
 Open the Main class in your IDE and run it.
+
 The application window should appear.
+
 Start using the system
+
 Add customers, manage room bookings, check-ins, and check-outs.
+
 View, edit, or delete records as needed.
+
 
 
 
