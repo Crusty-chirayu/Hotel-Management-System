@@ -81,12 +81,19 @@ View, edit, or delete records as needed.
    
 Usage:
 Add new customers and assign rooms
+
 Manage check-ins and check-outs
+
 View all bookings and customer details in a table
+
 Edit or delete records as needed
 
 Future Improvements 🚀
+
 Add PDF/Excel report generation for bookings
+
 Implement multiple staff roles with authentication
+
 Enhance GUI with modern Swing themes
+
 Add email notifications for bookings and check-outs
