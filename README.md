@@ -330,7 +330,7 @@ No — it's a desktop application. See [Live Preview](#-live-preview) for a real
 
 <div align="center">
 
-**Chirayu Jayaswal**
+**Chirayu Babu Jaysawal**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Crusty--chirayu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crusty-chirayu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chirayu--jayaswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirayu-jayaswal)
