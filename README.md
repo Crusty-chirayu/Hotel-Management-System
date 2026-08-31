@@ -56,6 +56,17 @@ It replaces four separate spreadsheets (guests, staff, housekeeping, pickups) wi
 - [Author](#-author)
 - [License](#-license)
 
+<br/>
+
+## 🎬 Live Preview
+
+<div align="center">
+<img width="700" alt="Admin panel walkthrough" src="https://raw.githubusercontent.com/Crusty-chirayu/Hotel-Management-System/main/admin.gif" />
+</div>
+
+<sub>Live capture from the repo's own `admin.gif` — this is the actual running app, not a mockup.</sub>
+
+<br/>
 
 ## ✨ Features
 
@@ -330,7 +341,7 @@ No — it's a desktop application. See [Live Preview](#-live-preview) for a real
 
 <div align="center">
 
-**Chirayu Babu Jaysawal**
+**Chirayu Jayaswal**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Crusty--chirayu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crusty-chirayu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chirayu--jayaswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirayu-jayaswal)
